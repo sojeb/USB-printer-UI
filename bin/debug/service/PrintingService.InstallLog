@@ -1,0 +1,28 @@
+﻿Installing assembly 'D:\dot net\UsbaPrinter\bin\Debug\service\PrintingService.exe'.
+Affected parameters are:
+   assemblypath = D:\dot net\UsbaPrinter\bin\Debug\service\PrintingService.exe
+   logfile = D:\dot net\UsbaPrinter\bin\Debug\service\PrintingService.InstallLog
+Installing service PrintingService...
+Service PrintingService has been successfully installed.
+Creating EventLog source PrintingService in log Application...
+See the contents of the log file for the D:\dot net\UsbaPrinter\bin\Debug\service\PrintingService.exe assembly's progress.
+The file is located at D:\dot net\UsbaPrinter\bin\Debug\service\PrintingService.InstallLog.
+Committing assembly 'D:\dot net\UsbaPrinter\bin\Debug\service\PrintingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\dot net\UsbaPrinter\bin\Debug\service\PrintingService.InstallLog
+   assemblypath = D:\dot net\UsbaPrinter\bin\Debug\service\PrintingService.exe
+Installing assembly 'D:\dot net\UsbaPrinter\bin\Debug\service\PrintingService.exe'.
+Affected parameters are:
+   assemblypath = D:\dot net\UsbaPrinter\bin\Debug\service\PrintingService.exe
+   logfile = D:\dot net\UsbaPrinter\bin\Debug\service\PrintingService.InstallLog
+Installing service PrintingService...
+Service PrintingService has been successfully installed.
+Creating EventLog source PrintingService in log Application...
+See the contents of the log file for the D:\dot net\UsbaPrinter\bin\Debug\service\PrintingService.exe assembly's progress.
+The file is located at D:\dot net\UsbaPrinter\bin\Debug\service\PrintingService.InstallLog.
+Committing assembly 'D:\dot net\UsbaPrinter\bin\Debug\service\PrintingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\dot net\UsbaPrinter\bin\Debug\service\PrintingService.InstallLog
+   assemblypath = D:\dot net\UsbaPrinter\bin\Debug\service\PrintingService.exe

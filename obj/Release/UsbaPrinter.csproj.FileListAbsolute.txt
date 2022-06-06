@@ -1,0 +1,15 @@
+D:\dot net\UsbaPrinter\bin\Release\UsbaPrinter.exe.config
+D:\dot net\UsbaPrinter\bin\Release\UsbaPrinter.exe.manifest
+D:\dot net\UsbaPrinter\bin\Release\UsbaPrinter.application
+D:\dot net\UsbaPrinter\bin\Release\UsbaPrinter.exe
+D:\dot net\UsbaPrinter\bin\Release\UsbaPrinter.pdb
+D:\dot net\UsbaPrinter\obj\Release\UsbaPrinter.csproj.AssemblyReference.cache
+D:\dot net\UsbaPrinter\obj\Release\UsbaPrinter.csproj.SuggestedBindingRedirects.cache
+D:\dot net\UsbaPrinter\obj\Release\UsbaPrinter.Form1.resources
+D:\dot net\UsbaPrinter\obj\Release\UsbaPrinter.Properties.Resources.resources
+D:\dot net\UsbaPrinter\obj\Release\UsbaPrinter.csproj.GenerateResource.cache
+D:\dot net\UsbaPrinter\obj\Release\UsbaPrinter.csproj.CoreCompileInputs.cache
+D:\dot net\UsbaPrinter\obj\Release\UsbaPrinter.exe.manifest
+D:\dot net\UsbaPrinter\obj\Release\UsbaPrinter.application
+D:\dot net\UsbaPrinter\obj\Release\UsbaPrinter.exe
+D:\dot net\UsbaPrinter\obj\Release\UsbaPrinter.pdb

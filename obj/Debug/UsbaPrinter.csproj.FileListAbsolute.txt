@@ -1,0 +1,26 @@
+C:\Printer\UsbaPrinter\bin\Debug\UsbaPrinter.exe.config
+C:\Printer\UsbaPrinter\bin\Debug\UsbaPrinter.exe
+C:\Printer\UsbaPrinter\bin\Debug\UsbaPrinter.pdb
+C:\Printer\UsbaPrinter\obj\Debug\UsbaPrinter.csproj.AssemblyReference.cache
+C:\Printer\UsbaPrinter\obj\Debug\UsbaPrinter.csproj.SuggestedBindingRedirects.cache
+C:\Printer\UsbaPrinter\obj\Debug\UsbaPrinter.Form1.resources
+C:\Printer\UsbaPrinter\obj\Debug\UsbaPrinter.Properties.Resources.resources
+C:\Printer\UsbaPrinter\obj\Debug\UsbaPrinter.csproj.GenerateResource.cache
+C:\Printer\UsbaPrinter\obj\Debug\UsbaPrinter.csproj.CoreCompileInputs.cache
+C:\Printer\UsbaPrinter\obj\Debug\UsbaPrinter.exe
+C:\Printer\UsbaPrinter\obj\Debug\UsbaPrinter.pdb
+C:\Printer\UsbaPrinter\bin\Debug\UsbaPrinter.exe.manifest
+C:\Printer\UsbaPrinter\bin\Debug\UsbaPrinter.application
+C:\Printer\UsbaPrinter\obj\Debug\UsbaPrinter.exe.manifest
+C:\Printer\UsbaPrinter\obj\Debug\UsbaPrinter.application
+D:\dot net\UsbaPrinter\bin\Debug\UsbaPrinter.exe.config
+D:\dot net\UsbaPrinter\bin\Debug\UsbaPrinter.exe
+D:\dot net\UsbaPrinter\bin\Debug\UsbaPrinter.pdb
+D:\dot net\UsbaPrinter\obj\Debug\UsbaPrinter.csproj.AssemblyReference.cache
+D:\dot net\UsbaPrinter\obj\Debug\UsbaPrinter.csproj.SuggestedBindingRedirects.cache
+D:\dot net\UsbaPrinter\obj\Debug\UsbaPrinter.Form1.resources
+D:\dot net\UsbaPrinter\obj\Debug\UsbaPrinter.Properties.Resources.resources
+D:\dot net\UsbaPrinter\obj\Debug\UsbaPrinter.csproj.GenerateResource.cache
+D:\dot net\UsbaPrinter\obj\Debug\UsbaPrinter.csproj.CoreCompileInputs.cache
+D:\dot net\UsbaPrinter\obj\Debug\UsbaPrinter.exe
+D:\dot net\UsbaPrinter\obj\Debug\UsbaPrinter.pdb
